@@ -1,0 +1,21 @@
+c:\users\aluno\documents\visual studio 2013\Projects\prjCalculadora\prjCalculadora\bin\Debug\prjCalculadora.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\prjCalculadora\prjCalculadora\bin\Debug\prjCalculadora.exe
+c:\users\aluno\documents\visual studio 2013\Projects\prjCalculadora\prjCalculadora\bin\Debug\prjCalculadora.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\prjCalculadora\prjCalculadora\obj\Debug\prjCalculadora.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\prjCalculadora\prjCalculadora\obj\Debug\prjCalculadora.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\prjCalculadora\prjCalculadora\obj\Debug\prjCalculadora.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\prjCalculadora\prjCalculadora\obj\Debug\prjCalculadora.exe
+c:\users\aluno\documents\visual studio 2013\Projects\prjCalculadora\prjCalculadora\obj\Debug\prjCalculadora.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\prjCalculadora\prjCalculadora\obj\Debug\prjCalculadora.Form1.resources
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\bin\Debug\prjCalculadora.exe.config
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\obj\Debug\prjCalculadora.exe
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\obj\Debug\prjCalculadora.pdb
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\bin\Debug\prjCalculadora.exe.config
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\obj\Debug\prjCalculadora.exe
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\obj\Debug\prjCalculadora.pdb
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\bin\Debug\prjCalculadora.exe
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\bin\Debug\prjCalculadora.pdb
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\obj\Debug\prjCalculadora.csprojResolveAssemblyReference.cache
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\obj\Debug\prjCalculadora.Form1.resources
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\obj\Debug\prjCalculadora.Properties.Resources.resources
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjCalculadora\obj\Debug\prjCalculadora.csproj.GenerateResource.Cache
